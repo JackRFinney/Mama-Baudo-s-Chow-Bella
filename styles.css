@@ -1,3 +1,18 @@
+html, body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Blackadder ITC TT';
+    background-color: black;
+}
 
-
+.navbar-custom{
+    background-color: black;
+     color:maroon
+}
+.navbar-text{
+   color:maroon
+}
  
+h1{
+    color: white;
+}
