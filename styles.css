@@ -16,3 +16,16 @@ html, body{
 h1{
     color: white;
 }
+
+div > img {
+    border-radius: 5%;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+.nav-pic{
+    background-image: url("https://th.bing.com/th/id/OIP.A_Npv0Ifu0eqq9G8ybP_VQHaHa?w=175&h=180&c=7&r=0&o=5&pid=1.7");
+    height: 100%;
+}
