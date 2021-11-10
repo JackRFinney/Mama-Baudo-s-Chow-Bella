@@ -24,4 +24,9 @@ div > img {
 h1.title-text{
     font-size: 60px
 }
-  
+
+.dropdown-toggle:after {
+    display: none;
+   }
+   
+
