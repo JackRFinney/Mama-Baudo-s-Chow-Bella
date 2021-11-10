@@ -2,7 +2,7 @@ html, body{
     height: 100%;
     font-size: 1rem;
     font-family: 'Blackadder ITC TT';
-    background-color: black;
+    background: rgb(0,0,0);
 }
 
 .navbar-custom{
@@ -28,5 +28,14 @@ h1.title-text{
 .dropdown-toggle:after {
     display: none;
    }
-   
 
+#limaroon{
+    color:maroon;
+    font-size: 19px;
+}
+
+#butmar{
+    color:maroon; 
+    background-color:maroon; 
+    border-color:maroon;
+}
