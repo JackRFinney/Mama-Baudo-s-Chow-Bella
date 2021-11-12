@@ -39,3 +39,31 @@ h1.title-text{
     background-color:maroon; 
     border-color:maroon;
 }
+
+.marbox{
+    border-style: solid ; 
+    border-color: maroon; 
+    border-radius: 12px; 
+    color: white;
+}
+
+footer{
+    background-color: black; 
+    color: white;
+}
+
+@media only screen and (max-width: 500px) {
+    .marbox{
+        border-style: none;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .smallh1{
+        color: maroon;
+    }
+  }
+
+  .mar{
+      color: maroon;
+  }
