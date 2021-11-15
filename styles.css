@@ -2,7 +2,7 @@ html, body{
     height: 100%;
     font-size: 1rem;
     font-family: 'Blackadder ITC TT';
-    background: rgb(0,0,0);
+    background: rgb(0, 0, 0);
 }
 
 .navbar-custom{
@@ -66,4 +66,24 @@ footer{
 
   .mar{
       color: maroon;
+  }
+
+  body, html {
+    height: 100%;
+  }
+  
+  .parallax {
+    /* The image used */
+    background-image: url("https://th.bing.com/th/id/OIP.wiylotIb0lX8NOz1jltfRwHaEK?w=278&h=180&c=7&r=0&o=5&pid=1.7");
+
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .backcream{
+      background-color:#848b79
   }
