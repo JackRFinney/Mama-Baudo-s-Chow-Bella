@@ -87,3 +87,6 @@ footer{
   .lnspace{
       letter-spacing: 4px;
   }
+  p{
+    font-family: 'Courgette', cursive;
+  }
