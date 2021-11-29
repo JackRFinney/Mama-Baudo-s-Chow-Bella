@@ -52,15 +52,28 @@ footer{
     color: white;
 }
 
+p{
+    font-family: 'courgette';
+  }
+
 @media only screen and (max-width: 500px) {
     .marbox{
         border-style: none;
+        text-align: center;
+        
     }
   }
 
   @media only screen and (max-width: 500px) {
     .smallh1{
         color: maroon;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    ul{
+       list-style: none;
+       padding-right: 2rem;
     }
   }
 
@@ -87,6 +100,9 @@ footer{
   .lnspace{
       letter-spacing: 4px;
   }
-  p{
-    font-family: 'Courgette', cursive;
+  
+  .courgette{
+    font-family:courgette; 
+    font-size: 20px; 
+    letter-spacing: 3 px; 
   }
