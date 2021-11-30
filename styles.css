@@ -13,7 +13,7 @@ html, body{
    color:maroon
 }
  
-h1, h3{
+h1, h2, h3{
     color: white;
 }
 
@@ -105,4 +105,9 @@ p{
     font-family:courgette; 
     font-size: 20px; 
     letter-spacing: 3 px; 
+  }
+  
+  .price{
+      font-size: 15px;
+      color: maroon;
   }
