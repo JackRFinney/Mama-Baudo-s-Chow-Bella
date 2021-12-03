@@ -115,3 +115,7 @@ p{
   .white{
       color: white
   }
+
+  ul.menu{
+      display: inline-block;
+  }
