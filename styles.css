@@ -119,3 +119,8 @@ p{
   ul.menu{
       display: inline-block;
   }
+
+  a {
+      text-decoration: none;
+      color: inherit;
+  }
