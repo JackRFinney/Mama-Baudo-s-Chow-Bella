@@ -1,3 +1,8 @@
+@font-face{
+    font-family:"Blackadder ITC TT";
+    src: url("Blackadder ITC TT/Blackadder ITC TT.ttf")
+}
+
 html, body{
     height: 100%;
     font-size: 1rem;
