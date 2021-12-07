@@ -124,3 +124,13 @@ p{
       text-decoration: none;
       color: inherit;
   }
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  z-index: 1;
+  background-color:maroon;
+  color:white;
+}
