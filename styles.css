@@ -65,7 +65,7 @@ p{
     font-family: 'courgette';
   }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 800px) {
     .marbox{
         border-style: none;
         text-align: center;
@@ -74,13 +74,13 @@ p{
     }
   }
 
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 800px) {
     .smallh1{
         color: maroon;
     }
   }
 
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 800px) {
     ul{
        list-style: none;
        padding-right: 2rem;
